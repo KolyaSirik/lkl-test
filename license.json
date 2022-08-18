@@ -1,7 +1,5 @@
 {
     "private_files": {
-        "core/Providers/Auth0ModuleProvider.php": "LenderKit\\Modules\\Auth0\\Providers\\Auth0ModuleProvider",
-        "core/Providers/Auth0EnabledServiceProvider.php": "LenderKit\\Modules\\Auth0\\Providers\\Auth0EnabledServiceProvider"
     },
     "limited_mode": {
         "denied": [
